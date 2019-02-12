@@ -1,1 +1,1 @@
-A tutorial of how to integrate SQL, Python, and API to provide basic statistics and visualizations regarding Museum data in the United States.
+A tutorial of how to integrate SQL, Python, and API to provide basic statistics and visualizations regarding Museum data in the United States. This tutorial could be used in a classroom setting or project to introduce or reinforce content.
